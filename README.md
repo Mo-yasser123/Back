@@ -1,3 +1,6 @@
+<img width="1427" height="635" alt="image" src="https://github.com/user-attachments/assets/13ea1d55-8de8-43f1-a7db-1363670b0a4e" />
+
+
 ## 🚀 Update: Expanding My Engineering Foundation
 
 Welcome back to my GitHub profile! If you’ve seen my previous work (I currently have about 7 repositories here), you might have noticed a brief pause in my recent commits. 
